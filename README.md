@@ -13,7 +13,6 @@
 
 ## 📸 Screenshots
 
-> *Add screenshots of the Streamlit app here after running*
 
 | Prediction Page | Risk Results | Interventions |
 |---|---|---|
