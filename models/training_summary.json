@@ -1,0 +1,29 @@
+{
+  "best_model": "logistic_regression",
+  "val_results": {
+    "logistic_regression": {
+      "accuracy": 0.8433,
+      "f1_macro": 0.8328,
+      "precision": 0.837,
+      "recall": 0.8309
+    },
+    "random_forest": {
+      "accuracy": 0.7367,
+      "f1_macro": 0.7178,
+      "precision": 0.7274,
+      "recall": 0.7123
+    }
+  },
+  "test_results": {
+    "accuracy": 0.9033,
+    "f1_macro": 0.8947,
+    "precision": 0.8971,
+    "recall": 0.8958
+  },
+  "feature_count": 34,
+  "label_names": [
+    "Low Risk",
+    "Medium Risk",
+    "High Risk"
+  ]
+}
